@@ -1,4 +1,4 @@
-IdNumber,Name,Date of Birth,Gender,City,State,PNumber,mailid
+AadharNumber,AadharName,DateofBirth,Gender,City,StateIndia,PNumber,mailid
 1,Vivaan Nair,01-03-1974,Male,Gurgaon,Haryana,9035738050,vivaan.nair329@example.com
 2,Vivaan Joshi,26-05-1960,Female,Ahmedabad,Gujarat,9788744801,vivaan.joshi757@example.com
 3,Rahul Verma,13-03-1993,Male,Darjeeling,West Bengal,9762152449,rahul.verma487@example.com
@@ -999,3 +999,4 @@ IdNumber,Name,Date of Birth,Gender,City,State,PNumber,mailid
 998,Isha Das,15-07-1990,Male,Kozhikode,Kerala,9773916856,isha.das130@example.com
 999,Rohit Malhotra,07-03-1969,Male,Faridabad,Haryana,9512454453,rohit.malhotra814@example.com
 1000,Neha Reddy,14-10-1973,Female,Surat,Gujarat,9256325410,neha.reddy628@example.com
+
